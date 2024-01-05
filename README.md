@@ -8,7 +8,7 @@
 ![Image of College Space](https://collegespacebackend-production.up.railway.app/static/media/laptop.ff31f6d2.jpg)
 
 **_Installation_**
-1) Firstly, clone the repository: `git clone https://github.com/Gautam-Arora24/College-Space.git`
+1) Firstly, clone the repository: `git clone https://github.com/sruthi2166/College-Space.git`
 2) Navigate to the directory and run `npm install` for your backend dependencies.
 3) Run `npm run install-client` to install the front-end dependencies.
 4) Rename `.env.example` to `.env` and populate the keys with the relevant information.
